@@ -1,0 +1,12 @@
+name: RHomes
+version: 1.0.0
+api-version: 1.16
+author: zziius
+
+main: de.moritzruth.rhomes.RHomesPlugin
+
+commands:
+  home:
+    usage: /h [Player] OR /h set OR /h setguest
+    aliases:
+      - h
